@@ -1,0 +1,17 @@
+{
+  "canvas_width": 600,
+  "canvas_height": 420,
+  "grid_size": 25,
+  "padding": 4,
+  "num_layouts_per_gen": 5,
+  "top_k_backgrounds": 5,
+  "total_generations": 10,
+  "mutation_rate": 0.25,
+  "max_place_attempts": 100,
+  "max_adjust_shift_attempts": 3,
+  "object_list_path": "object_lists/object_list_001.json",
+  "bg_analysis_path": "bg_analysis/bg_analysis_001.json",
+  "src_folder": "src",
+  "background_folder": "background",
+  "results_folder": "results"
+}

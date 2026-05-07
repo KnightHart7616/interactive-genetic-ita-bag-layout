@@ -1,0 +1,213 @@
+{
+  "avg_color": [
+    188,
+    189,
+    185
+  ],
+  "background_scores": [
+    {
+      "filename": "background (16).jpg",
+      "distance": 17.11724276862369
+    },
+    {
+      "filename": "background (46).jpg",
+      "distance": 22.825424421026653
+    },
+    {
+      "filename": "background (45).jpg",
+      "distance": 31.080540535840107
+    },
+    {
+      "filename": "background (14).jpg",
+      "distance": 32.51153641401772
+    },
+    {
+      "filename": "background (2).jpg",
+      "distance": 38.3275357934736
+    },
+    {
+      "filename": "background (41).jpg",
+      "distance": 42.07136793592526
+    },
+    {
+      "filename": "background (10).jpg",
+      "distance": 44.98888751680797
+    },
+    {
+      "filename": "background (43).jpg",
+      "distance": 46.010868281309364
+    },
+    {
+      "filename": "background (4).jpg",
+      "distance": 48.010415536631214
+    },
+    {
+      "filename": "background (9).jpg",
+      "distance": 49.08156476723211
+    },
+    {
+      "filename": "background (33).jpg",
+      "distance": 54.506880299646575
+    },
+    {
+      "filename": "background (48).jpg",
+      "distance": 59.60704656330491
+    },
+    {
+      "filename": "background (37).jpg",
+      "distance": 59.841457201508724
+    },
+    {
+      "filename": "background (3).jpg",
+      "distance": 60.44832503882965
+    },
+    {
+      "filename": "background (17).jpg",
+      "distance": 61.47357155721473
+    },
+    {
+      "filename": "background (13).jpg",
+      "distance": 62.76145313805282
+    },
+    {
+      "filename": "background (50).jpg",
+      "distance": 65.81033353509159
+    },
+    {
+      "filename": "background (5).jpg",
+      "distance": 66.64833081180653
+    },
+    {
+      "filename": "background (51).jpg",
+      "distance": 67.08203932499369
+    },
+    {
+      "filename": "background (22).jpg",
+      "distance": 69.52697318307479
+    },
+    {
+      "filename": "background (23).jpg",
+      "distance": 70.09992867328754
+    },
+    {
+      "filename": "background (15).jpg",
+      "distance": 73.97972695272672
+    },
+    {
+      "filename": "background (40).jpg",
+      "distance": 77.42092740338364
+    },
+    {
+      "filename": "background (18).jpg",
+      "distance": 78.55571271397135
+    },
+    {
+      "filename": "background (27).jpg",
+      "distance": 79.68688725254614
+    },
+    {
+      "filename": "background (36).jpg",
+      "distance": 79.73079706111058
+    },
+    {
+      "filename": "background (12).jpg",
+      "distance": 80.06247560499239
+    },
+    {
+      "filename": "background (44).jpg",
+      "distance": 80.56674251823763
+    },
+    {
+      "filename": "background (28).jpg",
+      "distance": 80.61637550770935
+    },
+    {
+      "filename": "background (31).jpg",
+      "distance": 91.71150418568
+    },
+    {
+      "filename": "background (11).jpg",
+      "distance": 92.33092656309694
+    },
+    {
+      "filename": "background (19).jpg",
+      "distance": 94.69952481401371
+    },
+    {
+      "filename": "background (42).jpg",
+      "distance": 96.46242791885346
+    },
+    {
+      "filename": "background (8).jpg",
+      "distance": 96.6385016440135
+    },
+    {
+      "filename": "background (20).jpg",
+      "distance": 97.27281223445738
+    },
+    {
+      "filename": "background (21).jpg",
+      "distance": 97.59098319004681
+    },
+    {
+      "filename": "background (25).jpg",
+      "distance": 99.92497185388645
+    },
+    {
+      "filename": "background (26).jpg",
+      "distance": 100.7670581092849
+    },
+    {
+      "filename": "background (1).jpg",
+      "distance": 101.4051280754578
+    },
+    {
+      "filename": "background (6).jpg",
+      "distance": 108.70142593360954
+    },
+    {
+      "filename": "background (29).jpg",
+      "distance": 112.68983982595769
+    },
+    {
+      "filename": "background (24).jpg",
+      "distance": 117.23907198540937
+    },
+    {
+      "filename": "background (30).jpg",
+      "distance": 117.23907198540937
+    },
+    {
+      "filename": "background (7).jpg",
+      "distance": 138.53519408439143
+    },
+    {
+      "filename": "background (38).jpg",
+      "distance": 141.5167834569455
+    },
+    {
+      "filename": "background (49).jpg",
+      "distance": 190.7065809037538
+    },
+    {
+      "filename": "background (34).jpg",
+      "distance": 197.81051539288805
+    },
+    {
+      "filename": "background (32).jpg",
+      "distance": 198.3078414990189
+    },
+    {
+      "filename": "background (39).jpg",
+      "distance": 200.68383093812017
+    },
+    {
+      "filename": "background (35).jpg",
+      "distance": 276.0959977978674
+    },
+    {
+      "filename": "background (47).jpg",
+      "distance": 314.66331212901196
+    }
+  ]
+}
