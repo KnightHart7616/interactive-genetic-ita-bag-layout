@@ -423,4 +423,10 @@ The system investigates how evolutionary computation and human preference evalua
 
 # License
 
-MIT License recommended.
+No license has been added yet.
+
+---
+
+Note:
+Image assets are omitted from the repository due to copyright considerations.
+Users may place their own images inside the src/ and background/ folders.
