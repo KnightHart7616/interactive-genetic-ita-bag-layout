@@ -23,6 +23,10 @@ output/*
 !results/.gitkeep
 !output/.gitkeep
 
-# Image Files
-src/
-background/
+# Ignore image assets
+src/*
+background/*
+
+# Keep folder structure
+!src/.gitkeep
+!background/.gitkeep
