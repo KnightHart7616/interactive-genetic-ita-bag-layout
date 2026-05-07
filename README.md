@@ -1,5 +1,7 @@
 # Interactive Genetic Algorithm Based Ita Bag Layout Generator
 
+![Example Layout](examples/layout_example.png)
+
 An Interactive Genetic Algorithm (IGA) based layout generation system for ita-bag design.
 
 This project explores how evolutionary computation and user preference evaluation can be combined to generate aesthetically pleasing ita-bag layouts using interactive evolution.
