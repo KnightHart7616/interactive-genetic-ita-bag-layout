@@ -427,7 +427,7 @@ No license has been added yet.
 
 ---
 
-# Note:
+# Note
 Image assets are omitted from the repository due to copyright considerations.
 
 Users may place their own images inside the src/ and background/ folders.
